@@ -1,0 +1,11 @@
+.postsItems{
+    margin: 100px 20px;
+}
+.postsItem{
+    display: flex;
+    align-items: center;
+}
+.postsItem img {
+    max-width: 100px;
+    margin: 20px 40px;
+}

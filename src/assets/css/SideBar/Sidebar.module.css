@@ -1,0 +1,9 @@
+.nav{
+    grid-area: n;
+    background-color: black;
+
+}
+.navItem p {
+    color: #fff;
+    margin: 30px 20px;
+}

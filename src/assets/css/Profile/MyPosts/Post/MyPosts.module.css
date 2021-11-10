@@ -1,0 +1,23 @@
+
+.postsForm{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0;
+}
+.postsInput{
+    background: white;
+    border: 1px solid black;
+    width: 100%;
+    height: 40px;
+}
+.postsButton{
+    margin-top: 10px;
+    position: relative;
+    float: right;
+    width: 100px;
+    height: 50px;
+    background: green;
+    padding: 20px 10px;
+    color: white;
+    border: none;
+}

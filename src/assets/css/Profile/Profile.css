@@ -1,0 +1,49 @@
+.content{
+    grid-area: c;
+    background-color: silver;
+}
+.contentMain{
+
+}
+.userInfoMain{
+    display: flex;
+}
+.avatar{
+    margin: 30px 50px;
+}
+.userInfo{
+    margin-top: 30px;
+}
+.userInfo p{
+    margin: 0;
+    padding: 0;
+
+}
+.avatar img{
+    max-width: 300px;
+}
+.backgroundImg img {
+    height: 300px;
+    width: 100%;
+}
+.postsForm{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.postsInput{
+    background: white;
+    border: 1px solid black;
+    width: 100%;
+    height: 40px;
+}
+.postsItems{
+    margin: 100px 20px;
+}
+.postsItem{
+    display: flex;
+    align-items: center;
+}
+.postsItem img {
+    max-width: 100px;
+    margin: 20px 40px;
+}
