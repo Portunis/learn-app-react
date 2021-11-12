@@ -1,5 +1,5 @@
 .postsItems{
-    margin: 100px 20px;
+    margin: 20px 20px;
 }
 .postsItem{
     display: flex;
@@ -8,4 +8,5 @@
 .postsItem img {
     max-width: 100px;
     margin: 20px 40px;
+    border-radius: 50%;
 }

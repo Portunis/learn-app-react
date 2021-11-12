@@ -8,4 +8,12 @@
     grid-gap: 10px;
 }
 
+.app-wrapper-content{
+    grid-area: c;
 
+}
+.app-wrapper-container{
+    grid-area:  c;
+    max-width: 1400px;
+
+}

@@ -1,9 +1,25 @@
 .nav{
     grid-area: n;
-    background-color: black;
+
+
 
 }
-.navItem p {
-    color: #fff;
+.navItem {
     margin: 30px 20px;
+    text-align: center;
+}
+
+.navItem a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+
+}
+.navItem a.active {
+    color: #fff;
+    background-color: rgba(148, 148, 148, 0.5);
+    padding: 10px 100px;
+    border-radius: 5px;
+    text-decoration: none;
+
 }
